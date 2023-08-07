@@ -1,8 +1,6 @@
 ### Hi there 👋 Myself S.Navaneetha Krishnan
 I am a passionate Programmer from India.
 [![trophy](https://github-profile-trophy.vercel.app/Archangel0007=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2
 <!--
 **Archangel0007/Archangel0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
