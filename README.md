@@ -1,4 +1,5 @@
-                                          **Hi there 👋 Myself S.Navaneetha Krishnan**
+                                          Hi there 👋 Myself S.Navaneetha Krishnan
+                                                           <hr>
                                           I am a passionate Programmer from India.
 
 
