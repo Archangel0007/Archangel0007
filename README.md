@@ -5,7 +5,6 @@
 
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Archangel0007&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning JS and CSS for fron-end development.
