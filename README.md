@@ -1,6 +1,6 @@
-                                          Hi there 👋 Myself S.Navaneetha Krishnan
+# Hi there 👋 Myself S.Navaneetha Krishnan
                                                            
-                                          I am a passionate Programmer from India.
+I am a passionate Programmer from India.
 
 
 
