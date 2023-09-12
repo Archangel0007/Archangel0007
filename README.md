@@ -1,17 +1,20 @@
-# Hi there 👋 Myself S.Navaneetha Krishnan
+<h1 align="center"> Hi there 👋 Myself S.Navaneetha Krishnan <h1/>
                                                            
-I am a passionate Programmer from India.
+<h2 align="center"> I am a passionate Programmer from India.<h2/>
 
 
-![](https://komarev.com/ghpvc/?username=Archangel0007)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Archangel0007&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Archangel0007&label=Profile%20views&color=0e75b6&style=flat" alt="omkar17coder" /> </p>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Archangel0007" alt="Navaneeth" /></a> </p>
 
-- 🌱 I’m currently learning JS and CSS for fron-end development.
+- 🌱 I’m currently learning **React JS  CSS  and Sanity**
 - 
-- 📫 How to reach me: navaneethakrishnan.s2021a@vitstudent.ac.in
-- 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archangel0007)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me **navaneethakrishnan2021a@vitstudent.ac.in**
+
+*
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archangel0007" alt="Navaneeth"><p/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Archangel0007)]([https://github.com/anuraghazra/github-readme-stats])
