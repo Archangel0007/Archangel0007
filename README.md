@@ -14,7 +14,7 @@
 - 📫 How to reach me **navaneethakrishnan2021a@vitstudent.ac.in**
 
 *
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archangel0007" alt="Navaneeth"><p/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Archangel0007&show_icons=true&locale=en&layout=compact" alt="omkar17coder" /></p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Archangel0007)]([https://github.com/anuraghazra/github-readme-stats])
